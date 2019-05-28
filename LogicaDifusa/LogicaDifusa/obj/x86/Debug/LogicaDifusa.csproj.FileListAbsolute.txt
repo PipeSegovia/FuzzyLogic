@@ -1,0 +1,6 @@
+/home/pipe/Documentos/ProyectosEnGit/FuzzyLogic/LogicaDifusa/LogicaDifusa/bin/Debug/LogicaDifusa.exe
+/home/pipe/Documentos/ProyectosEnGit/FuzzyLogic/LogicaDifusa/LogicaDifusa/bin/Debug/LogicaDifusa.pdb
+/home/pipe/Documentos/ProyectosEnGit/FuzzyLogic/LogicaDifusa/LogicaDifusa/obj/x86/Debug/LogicaDifusa.csprojAssemblyReference.cache
+/home/pipe/Documentos/ProyectosEnGit/FuzzyLogic/LogicaDifusa/LogicaDifusa/obj/x86/Debug/LogicaDifusa.csproj.CoreCompileInputs.cache
+/home/pipe/Documentos/ProyectosEnGit/FuzzyLogic/LogicaDifusa/LogicaDifusa/obj/x86/Debug/LogicaDifusa.exe
+/home/pipe/Documentos/ProyectosEnGit/FuzzyLogic/LogicaDifusa/LogicaDifusa/obj/x86/Debug/LogicaDifusa.pdb

@@ -34,6 +34,14 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FuncionesMembresia\ConjuntoDifuso.cs" />
+    <Compile Include="FuncionesMembresia\FuncionMembresia.cs" />
+    <Compile Include="Fusificacion\Fusificacion.cs" />
+    <Compile Include="FuncionesMembresia\FuncionPertenencia.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FuncionesMembresia\" />
+    <Folder Include="Fusificacion\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
