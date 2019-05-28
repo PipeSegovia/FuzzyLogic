@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CB9C16F0-F85D-4AAE-8715-FD321E8CAFDB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogicaDifusa/Program.cs">
+    <Files>
+      <File FileName="LogicaDifusa/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LogicaDifusa FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
