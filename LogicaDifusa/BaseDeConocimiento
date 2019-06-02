@@ -1,0 +1,7 @@
+TipoSonido es Bebe AND Intensidad es Debil AND Duracion es Puntual THEN Modo es Espera
+TipoSonido es Bebe AND Intensidad es Fuerte AND ( Duracion es Normal OR Duracion es Continuo ) THEN Modo es Normal
+TipoSonido es Bebe AND Intensidad es Fuerte THEN Modo es Normal
+TipoSonido es Humano THEN Modo es Espera
+TipoSonido es Otro AND Intensidad es Debil THEN Modo es Espera
+TipoSonido es OTro AND Intensidad es Fuerte AND ( Duracion es Puntual OR Duracion es Normal ) THEN Modo es Normal
+TipoSonido es Otro AND Duracion es Continuo THEN Modo es Espera

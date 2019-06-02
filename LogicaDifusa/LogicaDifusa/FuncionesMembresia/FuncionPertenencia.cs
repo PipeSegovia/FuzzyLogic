@@ -8,6 +8,9 @@ namespace LogicaDifusa.FuncionesMembresia
         private double b;
         private double c;
         private double d;
+        private double valorMinX;
+        private double valorMaxX;
+        private double distancia;
         private string nombre;
 
         public FuncionPertenencia(string _nombre, double _a, double _b)
@@ -15,6 +18,9 @@ namespace LogicaDifusa.FuncionesMembresia
             nombre = _nombre;
             a = _a;
             b = _b;
+            valorMinX = 0.0;
+            valorMaxX = 0.0;
+            distancia = 0.0;
         }
 
         public FuncionPertenencia(string _nombre, double _a, double _b, double _c, double _d)
@@ -24,6 +30,9 @@ namespace LogicaDifusa.FuncionesMembresia
             b = _b;
             d = _d;
             c = _c;
+            valorMinX = 0.0;
+            valorMaxX = 0.0;
+            distancia = 0.0;
         }
 
 
@@ -93,6 +102,24 @@ namespace LogicaDifusa.FuncionesMembresia
             {
                 gradoPertenencia = 1;
             }
+        }
+
+        public double ValorMinimoX
+        {
+            get { return valorMinX; }
+            set { valorMinX = value; }
+        }
+
+        public double ValorMaximoX
+        {
+            get { return valorMaxX; }
+            set { valorMaxX = value; }
+        }
+
+        public double Distancia
+        {
+            get { return distancia; }
+            set { distancia = value; }
         }
 
         public double GradoPertenencia

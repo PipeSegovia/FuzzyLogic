@@ -1,21 +1,19 @@
 ﻿<Properties StartupConfiguration="{CB9C16F0-F85D-4AAE-8715-FD321E8CAFDB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LogicaDifusa/FuncionesMembresia/ConjuntoDifuso.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogicaDifusa/SistemaDeInferencia/MotorDifuso.cs">
     <Files>
-      <File FileName="LogicaDifusa/Program.cs" Line="75" Column="1" />
-      <File FileName="LogicaDifusa/FuncionesMembresia/ConjuntoDifuso.cs" Line="21" Column="1" />
-      <File FileName="LogicaDifusa/Fusificacion/Fusificacion.cs" Line="13" Column="10" />
-      <File FileName="LogicaDifusa/FuncionesMembresia/FuncionPertenencia.cs" Line="71" Column="1" />
-      <File FileName="LogicaDifusa/FuncionesMembresia/FuncionMembresia.cs" Line="11" Column="32" />
+      <File FileName="LogicaDifusa/Program.cs" Line="21" Column="14" />
+      <File FileName="LogicaDifusa/SistemaDeInferencia/MotorDifuso.cs" Line="162" Column="1" />
+      <File FileName="LogicaDifusa/FuncionesMembresia/FuncionMembresia.cs" Line="22" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LogicaDifusa" expanded="True">
             <Node name="LogicaDifusa" expanded="True">
-              <Node name="FuncionesMembresia" expanded="True">
-                <Node name="ConjuntoDifuso.cs" selected="True" />
+              <Node name="FuncionesMembresia" expanded="True" />
+              <Node name="SistemaDeInferencia" expanded="True">
+                <Node name="MotorDifuso.cs" selected="True" />
               </Node>
-              <Node name="Fusificacion" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +24,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/home/pipe/Documentos/ProyectosEnGit/FuzzyLogic/LogicaDifusa/LogicaDifusa/SistemaDeInferencia/MotorDifuso.cs" relfile="LogicaDifusa/SistemaDeInferencia/MotorDifuso.cs" line="133" column="21" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
